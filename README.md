@@ -1,9 +1,9 @@
-# Ovation P-56WW2
+# Ovation P-56WW-2
 
 ## Software Versions
 
 [V1.0.3 - Ovation P-56WW2](https://github.com/Chauvet-Pro/OVATIONP56WW2/blob/2755f613a026640086550f1347cfa1a9d1b8a4bb/Firmware/V1.0.3.zip)
-- Updated UID
+- Updated UID settings
 
 [V1.0.2 - Ovation P-56WW2](https://github.com/Chauvet-Pro/OVATIONP56WW2/blob/2755f613a026640086550f1347cfa1a9d1b8a4bb/Firmware/V1.0.2.zip)
 - Released software version
